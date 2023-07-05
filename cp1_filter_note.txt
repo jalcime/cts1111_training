@@ -1,0 +1,12 @@
+We will practice and have experience with Red hat enterprise linux (Rhel). We will learn about utilities on
+Ubuntu and OpenSUSe distributions, the most common Rhel distributions. On main thing about linux, not all
+distributions are the same, but the good thing is, once you know linux using one distribution
+you need a little practice to be familiar with other distributions because linux distributions are based
+on other distributions. The two main groups of distributions are Red hat Based and Debian based.
+The diferences usually include packages, names, and their management tools, configuration file names and/or
+locations, firewall configuration utilities ,and so on. 
+
+We wil; work mainly with Community enterprise Operating System (CentOS) distribution. It is nearly exact a 
+copy of Red hat. It is recommended to update the software packags after installation. We will talk about
+super doer (sudo) later.
+
